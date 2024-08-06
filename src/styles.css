@@ -1,0 +1,26 @@
+body {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/mountain_bike_home.jpg');
+    background-size: cover;
+}
+
+#ul-menu {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+#li-menu {
+    float: left;
+    color: white;
+    display: block;
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+}
+
+#a-menu {
+    color: white;
+    text-decoration: none;
+}
