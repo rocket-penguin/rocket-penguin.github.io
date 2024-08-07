@@ -3,7 +3,7 @@ body {
     background-size: cover;
 }
 
-#ul-menu {
+.ul-menu {
     list-style-type: none;
     margin: 0px;
     padding: 0px;
@@ -11,7 +11,7 @@ body {
     box-sizing: border-box;
 }
 
-#li-menu {
+.li-menu {
     float: left;
     color: white;
     display: block;
@@ -20,7 +20,7 @@ body {
     text-decoration: none;
 }
 
-#a-menu {
+.a-menu {
     color: white;
     text-decoration: none;
 }
