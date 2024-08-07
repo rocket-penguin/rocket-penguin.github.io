@@ -24,3 +24,18 @@ body {
     color: white;
     text-decoration: none;
 }
+
+.welcome-text {
+    color: white;
+    width:500px;
+    position: absolute;
+    top: 50%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+}
+
+.welcome-text a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
